@@ -1,6 +1,6 @@
 site_name: Jubla Reporting – Handbuch
 site_description: Offizielle Dokumentation für das Jubla Reporting Tool
-site_url: https://handbuch-jubla-reporting.readthedocs.io
+site_url: https://jubla-reporting.readthedocs.io
 repo_url: https://github.com/flohulo/jubla-reporting
 repo_name: flohulo/jubla-reporting
 edit_uri: ""
@@ -10,8 +10,8 @@ theme:
   language: de
   palette:
     - scheme: default
-      primary: deep orange
-      accent: orange
+      primary: deep green
+      accent: green
       toggle:
         icon: material/brightness-7
         name: Dunkelmodus aktivieren
