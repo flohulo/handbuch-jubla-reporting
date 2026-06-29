@@ -1,5 +1,0 @@
-# Defining the exact version will make sure things don't break
-sphinx
-sphinxawesome-theme==6.0.2
-readthedocs-sphinx-search
-sphinx-fontawesome
