@@ -1,6 +1,6 @@
 # 2. Google Sheets einrichten
 
-Google Sheets dient als **Backend** für jubla-reporting – alle eingereichten Berichte landen hier. Keine Datenbank-Administration nötig.
+Google Sheets ist die zentrale Tabelle, in der alle Berichte und Einträge für deine Schar gesammelt werden. So brauchst du keine eigene Datenbank zu pflegen.
 
 ---
 

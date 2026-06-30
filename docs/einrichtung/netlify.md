@@ -1,6 +1,6 @@
 # 3. Netlify verbinden
 
-Jubla Reporting wird via **Netlify** gehostet. Das ist kostenlos und übernimmt sowohl das Frontend als auch die serverlosen Funktionen (Netlify Functions), die im Hintergrund mit Google Sheets und dem Mail-Server kommunizieren.
+Mit Netlify stellst du Jubla Reporting online zur Verfügung. Dadurch kannst du die App für deine Schar einfach nutzen, ohne selbst einen eigenen Server betreiben zu müssen.
 
 ---
 

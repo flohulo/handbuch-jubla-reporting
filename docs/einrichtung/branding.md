@@ -1,6 +1,6 @@
 # 5. Branding & Konfiguration
 
-Jubla Reporting lässt sich ohne Programmierkenntnisse an deine Schar anpassen. Alle wichtigen Einstellungen sind in der Datei `config.js` im Root-Verzeichnis deines Repos zusammengefasst.
+Jubla Reporting lässt sich ohne Programmierkenntnisse an deine Schar anpassen. Die wichtigsten Einstellungen findest du in der Datei `config.js` in deinem Repository.
 
 ---
 

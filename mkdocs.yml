@@ -1,5 +1,5 @@
 site_name: Jubla Reporting – Handbuch
-site_description: Offizielle Dokumentation für das Jubla Reporting Tool
+site_description: Offizielles Handbuch für das Jubla Reporting Tool
 site_url: https://jubla-reporting.readthedocs.io
 repo_url: https://github.com/flohulo/jubla-reporting
 repo_name: flohulo/jubla-reporting
@@ -10,8 +10,8 @@ theme:
   language: de
   palette:
     - scheme: default
-      primary: deep green
-      accent: green
+      primary: deep blue
+      accent: blue
       toggle:
         icon: material/brightness-7
         name: Dunkelmodus aktivieren
@@ -36,23 +36,18 @@ theme:
 
 nav:
   - Startseite: index.md
-  - Einrichtung:
-    - Überblick: einrichtung/ueberblick.md
-    - 1. Repository forken: einrichtung/fork.md
-    - 2. Google Sheets einrichten: einrichtung/google-sheets.md
-    - 3. Netlify verbinden: einrichtung/netlify.md
-    - 4. Umgebungsvariablen: einrichtung/umgebungsvariablen.md
-    - 5. Branding & Konfiguration: einrichtung/branding.md
-  - Nutzung:
-    - Für Leitende: nutzung/leitende.md
-    - Für die Scharleitung: nutzung/scharleitung.md
-    - Alarm-Funktion: nutzung/alarm.md
-  - Entwicklung:
-    - Architektur: entwicklung/architektur.md
-    - Contributing: entwicklung/contributing.md
-    - Changelog: entwicklung/changelog.md
+  - Für Nutzende:
+      - Einstieg: einrichtung/ueberblick.md
+      - 1. Repository forken: einrichtung/fork.md
+      - 2. Google Sheets einrichten: einrichtung/google-sheets.md
+      - 3. Netlify verbinden: einrichtung/netlify.md
+      - 4. Umgebungsvariablen: einrichtung/umgebungsvariablen.md
+      - 5. Branding & Konfiguration: einrichtung/branding.md
+      - Nutzung für Leitende: nutzung/leitende.md
+      - Nutzung für die Scharleitung: nutzung/scharleitung.md
+      - Alarm-Funktion: nutzung/alarm.md
   - Rechtliches:
-    - Datenschutz & Lizenz: rechtliches.md
+      - Datenschutz & Lizenz: rechtliches.md
 
 markdown_extensions:
   - admonition

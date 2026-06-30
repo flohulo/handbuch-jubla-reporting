@@ -1,41 +1,31 @@
 # ⚜️ Jubla Reporting – Handbuch
 
-> Das effiziente Tool zur Erfassung von Gruppenstunden-Berichten und zur Qualitätssicherung für Jubla-Scharen – optimiert für die Nutzung auf dem Smartphone.
+> Das Handbuch für Nutzerinnen und Nutzer von Jubla Reporting
 
-Willkommen im offiziellen Handbuch des **Jubla Reporting Tools**. Hier findest du alles, was du brauchst – vom ersten Setup bis zur täglichen Nutzung.
-
----
-
-## Was ist Jubla Reporting?
-
-Jubla Reporting ermöglicht es Leitenden, Berichte zu Gruppenstunden schnell und unkompliziert digital einzureichen – direkt nach dem Höck oder im Bus. Die Daten landen sicher in einem Google Sheet, und die Scharleitung wird bei kritischen Vorfällen automatisch per Mail benachrichtigt.
-
-## ✨ Hauptfunktionen
-
-| Funktion | Beschreibung |
-|---|---|
-| 📱 **Mobile First** | Optimiert für die Nutzung auf dem Smartphone |
-| 🚀 **Schnelles Reporting** | Bericht in unter 2 Minuten erfasst |
-| 📊 **Google Sheets** | Kein Datenbank-Aufwand – dein Sheet ist dein Backend |
-| ⚠️ **Alarm-Funktion** | Automatische Benachrichtigung bei kritischen Vorfällen |
-| 🎨 **Einfaches Branding** | Anpassung ohne Programmierkenntnisse via `config.js` |
-| ☁️ **Serverless** | Kostenloses Hosting via Netlify Functions |
+Willkommen im Handbuch von **Jubla Reporting**. Hier findest du alles, was du brauchst, um das Tool für deine Schar schnell und sicher nutzen zu können.
 
 ---
 
-## 🚀 Schnellstart
+## Für wen dieses Handbuch gedacht ist
 
-Neu dabei? So legst du los:
+Dieses Handbuch richtet sich vor allem an:
 
-1. [Repository forken](einrichtung/fork.md)
-2. [Google Sheet einrichten](einrichtung/google-sheets.md)
-3. [Netlify verbinden](einrichtung/netlify.md)
-4. [Umgebungsvariablen hinterlegen](einrichtung/umgebungsvariablen.md)
-5. [Branding anpassen](einrichtung/branding.md)
+- Leitende, die nach einer Gruppenstunde einen Bericht erfassen
+- Scharleitungen, die Einträge prüfen und Auszüge anfordern
+- Personen, die das Tool für ihre Schar einrichten und anpassen
+
+## Was du mit Jubla Reporting erledigen kannst
+
+Mit Jubla Reporting kannst du:
+
+- Gruppenstunden-Berichte schnell digital erfassen
+- wichtige Vorfälle direkt melden
+- Berichte und Auszüge für die Scharleitung übersichtlich verwalten
+- das Tool an das Erscheinungsbild deiner Schar anpassen
 
 ---
 
-## 🤝 Support
+## Support
 
 - 📬 **E-Mail:** jubla-reporting.factsheet290@passfwd.com
 - 🐞 **Bugs & Ideen:** [GitHub Issues](https://github.com/flohulo/jubla-reporting/issues)

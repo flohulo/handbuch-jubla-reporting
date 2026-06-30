@@ -1,6 +1,6 @@
-# Architektur
+# Hintergrund für Nutzende
 
-Jubla Reporting ist eine **serverlose Webanwendung**, die auf drei externe Dienste setzt:
+Jubla Reporting arbeitet im Hintergrund mit wenigen zentralen Diensten zusammen, damit du es einfach nutzen kannst:
 
 ```
 Browser (Frontend)

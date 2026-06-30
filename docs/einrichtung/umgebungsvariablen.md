@@ -1,6 +1,6 @@
 # 4. Umgebungsvariablen
 
-Umgebungsvariablen sind **geheime Schlüssel**, die jubla-reporting braucht, um mit Google Sheets und dem Mail-Server zu kommunizieren. Sie werden nicht im Code gespeichert, sondern sicher in Netlify hinterlegt.
+Umgebungsvariablen sind die geheimen Zugangsdaten, die Jubla Reporting braucht, damit die App mit Google Sheets und E-Mails korrekt arbeiten kann. Sie werden sicher in Netlify hinterlegt.
 
 ---
 

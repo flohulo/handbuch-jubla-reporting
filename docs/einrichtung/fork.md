@@ -1,6 +1,6 @@
 # 1. Repository forken
 
-Durch einen **Fork** erstellst du eine eigene Kopie des jubla-reporting Codes auf deinem GitHub-Account. So kannst du das Tool für deine Schar individuell anpassen, ohne das Original zu verändern.
+Mit einem **Fork** erstellst du eine eigene Kopie des Projekts auf deinem GitHub-Account. So kannst du Jubla Reporting für deine Schar individuell nutzen und anpassen, ohne das Original zu verändern.
 
 ---
 

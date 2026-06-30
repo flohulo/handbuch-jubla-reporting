@@ -1,26 +1,28 @@
 # Einrichtung – Überblick
 
-Die Einrichtung von Jubla Reporting für deine Schar dauert etwa **15–30 Minuten** und ist in fünf Schritte aufgeteilt. Du brauchst dafür:
+Dieses Kapitel erklärt dir in einfacher Form, wie du Jubla Reporting für deine Schar einrichtest. Die Einrichtung dauert in der Regel **15–30 Minuten**.
+
+## Was du vorbereiten solltest
+
+Bevor du startest, solltest du diese Konten zur Hand haben:
 
 - Ein **GitHub-Konto**
-- Ein **Google-Konto** (für Google Sheets & Google API)
-- Ein **Netlify-Konto** (kostenlos)
+- Ein **Google-Konto** für Google Sheets und die Google API
+- Ein **Netlify-Konto** (kostenlos nutzbar)
 
 ---
 
-## Die fünf Schritte
+## Die fünf Einrichtungs-Schritte
 
-```
-1. Repository forken          → Eigene Kopie des Codes erstellen
-2. Google Sheet einrichten    → Datenstruktur für deine Schar aufsetzen
-3. Netlify verbinden          → Hosting und Deployment konfigurieren
-4. Umgebungsvariablen setzen  → Zugangsdaten sicher hinterlegen
-5. Branding anpassen          → Logo, Farben und Texte konfigurieren
-```
+1. **Repository forken** – Erstelle eine eigene Kopie des Projekts.
+2. **Google Sheet einrichten** – Richte die Tabelle für deine Schar ein.
+3. **Netlify verbinden** – Verbinde das Projekt mit dem Hosting-Dienst.
+4. **Umgebungsvariablen setzen** – Hinterlege die benötigten Zugangsdaten sicher.
+5. **Branding anpassen** – Passe Logo, Farben und Texte an.
 
-!!! tip "Reihenfolge wichtig"
-    Die Schritte bauen aufeinander auf. Bearbeite sie der Reihe nach, damit du am Ende alle nötigen Werte für die Umgebungsvariablen beisammenhast.
+!!! tip "Reihenfolge beachten"
+Die Schritte bauen aufeinander auf. Bearbeite sie in der angegebenen Reihenfolge, damit du am Ende alle benötigten Werte für die Konfiguration vollständig gesammelt hast.
 
 ---
 
-Weiter zu: [1. Repository forken →](fork.md)
+Weiter zum ersten Schritt: [1. Repository forken →](fork.md)
