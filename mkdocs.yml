@@ -37,15 +37,13 @@ theme:
 nav:
   - Startseite: index.md
   - Für Nutzende:
-      - Einstieg: einrichtung/ueberblick.md
-      - 1. Repository forken: einrichtung/fork.md
-      - 2. Google Sheets einrichten: einrichtung/google-sheets.md
-      - 3. Netlify verbinden: einrichtung/netlify.md
-      - 4. Umgebungsvariablen: einrichtung/umgebungsvariablen.md
-      - 5. Branding & Konfiguration: einrichtung/branding.md
       - Nutzung für Leitende: nutzung/leitende.md
       - Nutzung für die Scharleitung: nutzung/scharleitung.md
       - Alarm-Funktion: nutzung/alarm.md
+  - Für Entwickler:innen:
+      - Einstieg: admin/ueberblick.md
+      - Architektur: entwicklung/architektur.md
+      - constibutions: entwicklung/contributions.md
   - Rechtliches:
       - Datenschutz & Lizenz: rechtliches.md
 

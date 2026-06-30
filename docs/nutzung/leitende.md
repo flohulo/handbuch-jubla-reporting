@@ -35,7 +35,7 @@ Wenn ein Teilnehmender eine Verwarnung erhält, gehe wie folgt vor:
 4. Bestätige mit **«Speichern»**.
 
 !!! info "Wichtiger Unterschied"
-Ein Strike wird gespeichert, löst aber keinen automatischen Alarm aus. Nur das Ankreuzen von **«Besonderer Vorfall – Alarm»** im Formular löst eine Alarm-Mail aus.
+Ein Strike wird gespeichert, löst aber generell keinen automatischen Alarm aus, ausser das System erkennt eine systematischen Wiederholung. Wende dich bei Anliegen immer trotzdem an die Scharleitung.
 
 ---
 

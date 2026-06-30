@@ -1,4 +1,4 @@
-# ⚜️ Jubla Reporting – Handbuch
+# Jubla Reporting – Handbuch
 
 > Das Handbuch für Nutzerinnen und Nutzer von Jubla Reporting
 
@@ -26,6 +26,8 @@ Mit Jubla Reporting kannst du:
 ---
 
 ## Support
+
+> Kann deine Frage oder dein Anliegen nicht in diesem Handbuch beantwortet werden, kannst du gerne Kontakt mit uns aufnehmen. Wir werden uns innerhalb von 72 Stunden darum kümmern.
 
 - 📬 **E-Mail:** jubla-reporting.factsheet290@passfwd.com
 - 🐞 **Bugs & Ideen:** [GitHub Issues](https://github.com/flohulo/jubla-reporting/issues)

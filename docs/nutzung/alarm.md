@@ -13,7 +13,7 @@ Ein Alarm wird ausgelöst, wenn im Bericht-Formular das Feld **«Besonderer Vorf
 - Vorfall, der die Scharleitung informieren muss
 
 !!! danger "Notfall = sofort anrufen"
-    Bei einem echten Notfall (Verletzung, Rettung nötig) ruf zuerst **144** an. Die Alarm-Mail ist kein Ersatz für direkten Kontakt.
+Bei einem echten Notfall (Verletzung, Rettung nötig) ruf zuerst **144** an. Die Alarm-Mail ist kein Ersatz für direkten Kontakt.
 
 ---
 
@@ -30,10 +30,4 @@ Die Alarm-Mail wird automatisch versendet und enthält:
 
 ## Alarm-Empfänger konfigurieren
 
-Der Alarm-Empfänger wird über die Umgebungsvariable `ALARM_RECIPIENT` festgelegt. Siehe [Umgebungsvariablen](../einrichtung/umgebungsvariablen.md).
-
-Es ist möglich, mehrere Empfänger einzutragen – trenne die E-Mail-Adressen mit Komma:
-
-```
-ALARM_RECIPIENT=leitung@jubla-wald.ch,stellvertretung@jubla-wald.ch
-```
+Der Alarm-Empfänger wird von deinem Scharverantwortlihen festgelegt. Wende dich bei Fragen oder Änderungen direkt an ihn.

@@ -22,15 +22,10 @@ const CONFIG = {
   PRIMARY_COLOR: "#E87722",
 
   // Gruppen, die im Dropdown angezeigt werden
-  GRUPPEN: [
-    "Biber",
-    "Wölfe",
-    "Pfadis",
-    "Rover"
-  ],
+  GRUPPEN: ["Biber", "Wölfe", "Pfadis", "Rover"],
 
   // Kontakt für den Hilfe-Link
-  KONTAKT_EMAIL: "leitung@jubla-wald.ch"
+  KONTAKT_EMAIL: "leitung@jubla-wald.ch",
 };
 ```
 
@@ -48,15 +43,13 @@ const CONFIG = {
 
 Jubla-Farben zur Orientierung:
 
-| Farbe | Hex-Code |
-|---|---|
-| Jubla Orange | `#E87722` |
+| Farbe            | Hex-Code  |
+| ---------------- | --------- |
+| Jubla Orange     | `#E87722` |
 | Jubla Dunkelblau | `#1A3A5C` |
-| Jubla Hellgrau | `#F5F5F5` |
+| Jubla Hellgrau   | `#F5F5F5` |
 
 ---
 
 !!! success "Setup abgeschlossen!"
-    Wenn du alle fünf Schritte erledigt hast, ist dein Jubla Reporting Tool einsatzbereit. Teile den Link zu deiner Netlify-App mit deinen Leitenden!
-
-Weiter zu: [Nutzung für Leitende →](../nutzung/leitende.md)
+Wenn du alle fünf Schritte erledigt hast, ist dein Jubla Reporting Tool einsatzbereit. Teile den Link zu deiner Netlify-App mit deinen Leitenden!
