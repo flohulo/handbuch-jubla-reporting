@@ -1,0 +1,54 @@
+name: Handbuch-Feedback
+description: Melde einen Fehler oder einen Vorschlag zum Handbuch
+labels: [documentation]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Vielen Dank, dass du dir die Zeit nimmst, ein Problem oder einen Hinweis zum Handbuch zu melden.
+  - type: textarea
+    id: description
+    attributes:
+      label: Beschreibung
+      description: Beschreibe die Unklarheit, den Fehler oder den Vorschlag so genau wie möglich.
+      placeholder: Was ist unklar oder funktioniert nicht wie erwartet?
+    validations:
+      required: true
+  - type: textarea
+    id: location
+    attributes:
+      label: Stelle im Handbuch
+      description: Gib an, auf welcher Seite oder bei welchem Abschnitt du das Problem festgestellt hast.
+      placeholder: z. B. Einrichtung → Google Sheets
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Schritte zum Reproduzieren
+      description: Wie kann der Fehler nachgestellt oder die Unklarheit gefunden werden?
+      placeholder: |
+        1. Öffne...
+        2. Klicke auf...
+        3. Beobachte...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Erwartetes Verhalten
+      description: Was sollte stattdessen klar sein oder korrekt funktionieren?
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Screenshots / Hinweise
+      description: Falls vorhanden, füge bitte Screenshots, Links oder weitere Hinweise bei.
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Selbst-Check
+      options:
+        - label: Ich habe die aktuelle Version des Handbuchs bzw. des Tools geprüft.
+          required: true
